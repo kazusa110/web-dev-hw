@@ -2,8 +2,8 @@
 
 A packet travels from one place to another on the internet.
 
-Our computer use the DNS to look up domain name and get the associated IP address which is used to connect our computer to the destination on the internet.
+ Our computer use the DNS to look up domain name and get the associated IP address which is used to connect our computer to the destination on the internet.
 
-Cookies are an ID number that remember who we address.
+ Cookies are an ID number that remember who we address.
 
-Three basic parts of a URL are protocol, domain and path and file.  
+ Three basic parts of a URL are protocol, domain and path and file.  
