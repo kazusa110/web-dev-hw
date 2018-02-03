@@ -1,13 +1,12 @@
-# My Intro-Web-Dev Homework Repo.
-## Kazusa Ito
-**paragraph** Well, I have always wanted to learn how to build a website, and I learned that I could use this class as a tool in helping me to build websites.
-1. That it was a result of a different project
-2. The guys that invented the internet are still alive
-3. No one actually in charge of the internet
-4. I didn't know flush toilet has existed since the 1596
----
-### My Resources
-*HTML$CSS* **John Duckett**
-```HTML$CSS John Duckett```
-[links](https://media-ed-online.github.io/intro-web-dev/)
-![Images](http://bit.ly/2DIVG46)
+## Assignment 2
+
+A_version control system_ is embedded in many types of software and version control  allow a developer to make changes to a file and track their changes over time, makes collaboration and sharing easier.
+
+Please read My [responses](./responses.txt) regarding internet protocols and systems.
+
+This assignment was difficult but rewarding for me, because
+- I have never used any coding to make project so using code was hard.
+- Using all of Atom, Github desktop application and web version of Github to make project was still difficult.  
+- I had many issues when I was doing assignment but doing same things over and over for fixing the problem was worth it for me.
+
+![Image of My Atom Editor](./images/screenshot.k.png)
