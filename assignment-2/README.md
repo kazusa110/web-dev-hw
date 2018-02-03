@@ -1,6 +1,6 @@
 ## Assignment 2
 
-A_version control system_ is embedded in many types of software and version control  allow a developer to make changes to a file and track their changes over time, makes collaboration and sharing easier.
+A _version control system_ is embedded in many types of software and version control  allow a developer to make changes to a file and track their changes over time, makes collaboration and sharing easier.
 
 Please read My [responses](./responses.txt) regarding internet protocols and systems.
 
