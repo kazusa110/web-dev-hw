@@ -9,4 +9,4 @@ This assignment was difficult but rewarding for me, because
 - Using all of Atom, Github desktop application and web version of Github to make project was still difficult.  
 - I had many issues when I was doing assignment but doing same things over and over for fixing the problem was worth it for me.
 
-![Image of My Atom Editor](./images/screenshot.k.png)
+![Image of My Atom Editor](./images/screen.png)
