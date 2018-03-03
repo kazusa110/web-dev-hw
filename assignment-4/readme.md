@@ -13,5 +13,4 @@
 
 
 ### Screenshot
-
-![Image of My Atom Editor](./images/ScreenShot3 .png)
+![Image of My Atom Editor](./images/ScreenShot3.png)
