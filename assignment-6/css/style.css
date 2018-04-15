@@ -1,0 +1,47 @@
+#Image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#image {
+  background-color: pink;
+  width: 700px;
+  height: 700px;
+  posotion: absolute;
+}
+p {
+  background-color: indigo;
+  border: 5px solid: orange;
+}
+#circle {
+  width: 100px;
+  border: 30px groove indigo;
+  padding: 25px;
+  margine: 25px;
+}
+     * {
+        front-family: Arial;
+        baackground-color: #F1F1F1;
+     }
+    
+ </style>
+</head>
+
+
+</body>
+
+body {
+  front-family: Arial;
+  background-color: pink;
+}
+
+
+  text-indent: 20px;
+}
+
+.cats {
+  color: red !important;
+  front-size: x-large;
+  font-weight: normal;
+}
