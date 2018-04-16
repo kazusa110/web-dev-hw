@@ -24,12 +24,8 @@ p {
         front-family: Arial;
         baackground-color: #F1F1F1;
      }
-    
- </style>
-</head>
 
-
-</body>
+ 
 
 body {
   front-family: Arial;
@@ -38,10 +34,4 @@ body {
 
 
   text-indent: 20px;
-}
-
-.cats {
-  color: red !important;
-  front-size: x-large;
-  font-weight: normal;
 }
