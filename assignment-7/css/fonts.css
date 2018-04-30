@@ -1,0 +1,23 @@
+/* Completed for the “regular” font: */
+@font-face {
+    font-family: 'Lora';
+    src: url('../fonts/Lora-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* What is the weight for the “bold” version?*/
+body {
+    font-family: 'Lora';
+    src: url('../fonts/Lora-Bold.ttf') format('opentype');
+    font-size: 15px;
+    color: brown;
+}
+
+/* What is the style for the “italic” version? */
+h1, h2, h3 {
+    font-family: 'Lora';
+    src: url('../fonts/Lora-Italic.ttf') format('opentype');
+    font-size: 30px;
+    color: pink;
+}
